@@ -22,4 +22,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Video Demonstration
-[Watch the demonstration video](https://drive.google.com/uc?id=1cfq9W7sdbLON9RpuRIIGGqT6U8wrCWfi)
+[Watch the demonstration video](https://drive.google.com/file/d/1cfq9W7sdbLON9RpuRIIGGqT6U8wrCWfi/view?usp=sharing)
