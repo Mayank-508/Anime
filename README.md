@@ -3,12 +3,12 @@
 A new Flutter project.
 
 ## Getting Started
-![Screenshot 1](https://github.com/<your-username>/<your-repo>/blob/main/Screenshot_20241021_095027.jpg?raw=true)
-![Screenshot 2](https://github.com/<your-username>/<your-repo>/blob/main/Screenshot_20241021_095033.jpg?raw=true)
-![Screenshot 3](https://github.com/<your-username>/<your-repo>/blob/main/Screenshot_20241021_095044.jpg?raw=true)
-![Screenshot 4](https://github.com/<your-username>/<your-repo>/blob/main/Screenshot_20241021_095050.jpg?raw=true)
-![Screenshot 5](https://github.com/<your-username>/<your-repo>/blob/main/Screenshot_20241021_095057.jpg?raw=true)
-![Screenshot 6](https://github.com/<your-username>/<your-repo>/blob/main/Screenshot_20241021_095103.jpg?raw=true)
+![Screenshot 1](https://github.com/Mayank-508/Anime/blob/main/Screenshot_20241021_095027.jpg?raw=true)
+![Screenshot 2](https://github.com/Mayank-508/Anime/blob/main/Screenshot_20241021_095033.jpg?raw=true)
+![Screenshot 3](https://github.com/Mayank-508/Anime/blob/main/Screenshot_20241021_095044.jpg?raw=true)
+![Screenshot 4](https://github.com/Mayank-508/Anime/blob/main/Screenshot_20241021_095050.jpg?raw=true)
+![Screenshot 5](https://github.com/Mayank-508/Anime/blob/main/Screenshot_20241021_095057.jpg?raw=true)
+![Screenshot 6](https://github.com/Mayank-508/Anime/blob/main/Screenshot_20241021_095103.jpg?raw=true)
 
 This project is a starting point for a Flutter application.
 
